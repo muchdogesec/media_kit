@@ -1,6 +1,6 @@
-# DOGESEC media kit
+# dogesec media kit
 
-Various DOGESEC assets we use across our products / websites.
+Various [dogesec](https://www.dogesec.com/) assets we use across our products / websites.
 
 ## License
 
